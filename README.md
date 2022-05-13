@@ -1,16 +1,12 @@
-# box2d_collision_rpg_style
+# 本期是flutter教學系列的第二十一期
 
-A new Flutter project.
+# 教學內容包括：
+- particle effects
+- CircelParticle
+- AccelaratedParticle
+- TranslatedParticle
+# 教學預期：學員可以動過靈活應用flame提供的particle system
+視頻地址：https://youtu.be/foTmJgXpBQw <br>
+頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![遊戲截屏](https://github.com/imperativelyfunctional/tiled_box2d_prp_collision_detections/blob/main/demo.gif)
