@@ -9,4 +9,4 @@
 視頻地址：https://youtu.be/foTmJgXpBQw <br>
 頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-![遊戲截屏](https://github.com/imperativelyfunctional/tiled_box2d_prp_collision_detections/blob/main/demo.gif)
+![遊戲截屏](https://github.com/imperativelyfunctional/flame-engine-particle-effects/blob/main/demo.gif)
